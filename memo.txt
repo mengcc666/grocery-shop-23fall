@@ -1,0 +1,8 @@
+getCustomerZipcode.php code.
+this function will
+            SELECT c.customerid, c.firstname, c.lastname, c.age, c.phonenumber, c.email, c.address, c.dateofbirth
+            FROM customers c
+            JOIN transactions t ON c.customerid = t.customerid
+            WHERE t.transactiondate = "2023-12-06"
+            GROUP BY c.customerid
+            HAVING COUNT(t.transactionid) > 2;

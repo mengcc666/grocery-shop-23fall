@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<items>
+    <!-- fresh_products -->
+    <item>
+        <department>fresh_products</department>
+        <category>new items</category>
+        <name/>
+        <picture>images/Beef-Chuck-Roast.png</picture>
+        <price>14.94</price>
+        <inventory>5</inventory>
+    </item>
+    <item>
+        <department>fresh_products</department>
+        <category>all vegetable</category>
+        <name/>
+        <picture>images/Fresh-Roma-Tomato.webp</picture>
+        <price>0.29</price>
+        <inventory>5</inventory>
+    </item>
+    <item>
+        <department>fresh_products</department>
+        <category>all fruits</category>
+        <name/>
+        <picture>images/Marketside-Fresh-Organic-Bananas.webp</picture>
+        <price>1.88</price>
+        <inventory>5</inventory>
+    </item>
+    <item>
+        <department>fresh_products</department>
+        <category>pre-cut fruits</category>
+        <name/>
+        <picture>images/Freshness-Guaranteed-Cut-Watermelon.webp</picture>
+        <price>4.48</price>
+        <inventory>5</inventory>
+    </item>
+    <item>
+        <department>fresh_products</department>
+        <category>flowers</category>
+        <name/>
+        <picture>images/One-Dozen-Red-Roses.webp</picture>
+        <price>49.99</price>
+        <inventory>5</inventory>
+    </item>
+    <item>
+        <department>fresh_products</department>
+        <category>salsa and dips</category>
+        <name/>
+        <picture>images/HERDEZ-Salsa-Casera-Mexican.webp</picture>
+        <price>2.54</price>
+        <inventory>5</inventory>
+    </item>
+    <item>
+        <department>fresh_products</department>
+        <category>season produce</category>
+        <name/>
+        <picture>images/Fresh-Gala-Apples-3-lb-Bag.webp</picture>
+        <price>3.46</price>
+        <inventory>5</inventory>
+    </item>
+    <item>
+        <department>fresh_products</department>
+        <category>rollbacks</category>
+        <name/>
+        <picture>images/Lamb-Shank-Rosemary-Garlic.webp</picture>
+        <price>21.52</price>
+        <inventory>5</inventory>
+    </item>
+
+    <!-- frozen_products -->
+    <item>
+        <department>frozen_products</department>
+        <category>frozen breakfast</category>
+        <name>Croissant-Sandwiches-Sausage-Egg-and-Cheese</name>
+        <picture>images/Croissant-Sandwiches-Sausage-Egg-and-Cheese.webp</picture>
+        <price>5.78</price>
+        <inventory>5</inventory>
+    </item>
+    <item>
+        <department>frozen_products</department>
+        <category>frozen dessert</category>
+        <name>Premium-Desserts-Chocolate-CremePie</name>
+        <picture>images/Premium-Desserts-Chocolate-CremePie.webp</picture>
+        <price>6.98</price>
+        <inventory>5</inventory>
+    </item>
+    <item>
+        <department>frozen_products</department>
+        <category>frozen meals</category>
+        <name>Tender-Ginger-Beef-Broccoli-Bowl</name>
+        <picture>images/Tender-Ginger-Beef-Broccoli-Bowl.webp</picture>
+        <price>2.67</price>
+        <inventory>5</inventory>
+    </item>
+    <item>
+        <department>frozen_products</department>
+        <category>frozen pizza</category>
+        <name/>
+        <picture>images/Pepperoni-Frozen-Pizza.webp</picture>
+        <price>4.47</price>
+        <inventory>5</inventory>
+    </item>
+    <item>
+        <department>frozen_products</department>
+        <category>frozen meat</category>
+        <name/>
+        <picture>images/Pure-Beef-Burgers-Frozen.webp</picture>
+        <price>11.97</price>
+        <inventory>5</inventory>
+    </item>
+    <item>
+        <department>frozen_products</department>
+        <category>frozen snacks</category>
+        <name/>
+        <picture>images/Pepperoni-Mini-Pizza-Bagel-Frozen-Snack.webp</picture>
+        <price>9.98</price>
+        <inventory>5</inventory>
+    </item>
+    <item>
+        <department>frozen_products</department>
+        <category>rollbacks</category>
+        <name/>
+        <picture>images/California-Style-Vegetable-Frozen.webp</picture>
+        <price>1.27</price>
+        <inventory>5</inventory>
+    </item>
+    <!-- candy -->
+    <item>
+        <department>candy</department>
+        <category>none</category>
+        <name/>
+        <picture>images/Chocolate Candy.webp</picture>
+        <price>2.98</price>
+        <inventory>5</inventory>
+    </item>
+    <item>
+        <department>candy</department>
+        <category>none</category>
+        <name/>
+        <picture>images/Fruit-Candy.webp</picture>
+        <price>2.78</price>
+        <inventory>5</inventory>
+    </item>
+    <!-- snack -->
+    <item>
+        <department>snack</department>
+        <category>none</category>
+        <name/>
+        <picture>images/Chocolate-Snack-Mix.webp</picture>
+        <price>3.95</price>
+        <inventory>5</inventory>
+    </item>
+    <item>
+        <department>snack</department>
+        <category>none</category>
+        <name/>
+        <picture>images/Cheddar-Snack-Pack.webp</picture>
+        <price>6.68</price>
+        <inventory>5</inventory>
+    </item>
+
+</items>
